@@ -11,7 +11,7 @@ const App: React.FC = () => {
         content="Some quick example text to build on the card title and make up the bulk of the card's content."
         btnText='Go somewhere'
         >
-        <CardImage src='./src/img/Ellie.png' alt='girl with guitar' />
+        <CardImage src="/ra-cards/img/Ellie.png" alt="girl with guitar" />
       </Card>
       <Card
         title='Special title treatment'
