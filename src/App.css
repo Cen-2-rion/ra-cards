@@ -66,6 +66,7 @@ body {
   border-radius: 0.25rem;
   text-decoration: none;
   cursor: pointer;
+  user-select: none;
 }
 
 .card-button:hover {
